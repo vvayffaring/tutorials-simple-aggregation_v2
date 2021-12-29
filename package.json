@@ -17,7 +17,7 @@
     "project.yaml"
   ],
   "author": "sa",
-  "license": "MIT",
+  "license": "TonyMoon",
   "devDependencies": {
     "@polkadot/api": "^6",
     "@subql/types": "latest",
