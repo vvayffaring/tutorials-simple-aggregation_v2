@@ -16,8 +16,8 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "sa",
-  "license": "TonyMoon",
+  "author": "TonyMoon",
+  "license": "MIT",
   "devDependencies": {
     "@polkadot/api": "^6",
     "@subql/types": "latest",
